@@ -1,0 +1,20 @@
+D:\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.exe.config
+D:\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.exe
+D:\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.pdb
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda_Launcher.Properties.Resources.resources
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csproj.GenerateResource.cache
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csproj.CoreCompileInputs.cache
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.exe
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.pdb
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csprojAssemblyReference.cache
+D:\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda_Launcher.Garuda_launcher.resources
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.exe.config
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.exe
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\bin\Debug\Garuda Launcher.pdb
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csprojAssemblyReference.cache
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda_Launcher.Garuda_launcher.resources
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda_Launcher.Properties.Resources.resources
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csproj.GenerateResource.cache
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.csproj.CoreCompileInputs.cache
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.exe
+D:\Program\Visual Code\Garuda Launcher\Garuda Launcher\obj\Debug\Garuda Launcher.pdb
